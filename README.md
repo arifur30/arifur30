@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-Here’s a well-structured README for your GitHub profile repository:
-
----
-
 # Hi there, I'm Arifur Rahman! 👋  
 
 🚀 **Software Engineering Enthusiast | ML Enthusiast | Problem Solver**  
